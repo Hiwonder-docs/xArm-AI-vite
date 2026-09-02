@@ -30,7 +30,7 @@ The build artifacts under `projects/` are committed to the repository. Open
 The GitHub Pages direct URL is:
 
 ```text
-https://hiwonder-docs.github.io/xArm-AI-vite/projects/xArm_AI/en/latest/
+https://hiwonder-docs.github.io/xArm_AI-vite/projects/xArm_AI/en/latest/
 ```
 
 The public-facing URL (via the baota Nginx reverse proxy) is:
